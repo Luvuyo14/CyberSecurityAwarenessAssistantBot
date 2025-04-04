@@ -12,7 +12,7 @@ namespace CyberSecurityAwarenessAssistantBot
         {
             new AudioPlay() { };
 
-
+            new CyberBotInteraction() { };
         }
     }
 }
